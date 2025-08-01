@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 18.5//EN
+N:Lim;Han Sing;;;
+FN:Han Sing Lim
+ORG:Keysight Technologies;General Electronics Measurement Solutions (GEMS)
+TITLE:Vice President & General Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:han-sing_lim@keysight.com
+TEL;type=WORK;type=VOICE;type=pref:+60 4 680 8888
+TEL:+60 4-680 5772
+ADR;type=WORK;type=pref:;;Keysight Technologies Malaysia Sdn. Bhd.\nBayan Lepas Free Industrial Zone;Bayan Lepas;Penang;11900;Malaysia
+URL;type=WORK;type=pref:https://www.keysight.com
+END:VCARD
