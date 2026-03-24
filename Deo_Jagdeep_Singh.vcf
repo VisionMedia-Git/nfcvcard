@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 26.3.1//EN
+N:Deo;Jagdeep;Singh;;
+FN:Jagdeep Singh Deo
+ORG:Penang State Government;Human Capital Development\, Science And Technology
+TITLE:Deputy Chief Minister II (Adun Datok Keramak)
+EMAIL;type=INTERNET;type=WORK;type=pref:jagdeepsinghdeo@penang.gov.my
+TEL;type=WORK;type=VOICE;type=pref:04 226 2464
+TEL;type=WORK;type=VOICE:04 650 5134
+TEL;type=WORK;type=VOICE:04 262 9930
+item1.ADR;type=pref:;;461\, Jalan Datok Keramat;Georgetown;Pulau Pinang;10150;Malaysia
+item1.X-ABLabel:Pejabat KADUN
+item2.ADR:;;Tingkat 52\, Komtar;Georgetown;Pulau Pinang;10503;Malaysia
+item2.X-ABLabel:State Office
+END:VCARD
