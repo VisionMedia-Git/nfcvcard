@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:YIP;Terry;;;
+FN:Terry YIP
+ORG:Keysight Technologies Australia Pty Ltd;Keysight Global Sales
+TITLE:Services Sales Director, Asia Pacific Region
+TEL;TYPE=CELL:+61483320210
+TEL;TYPE=WORK:+61296677322
+EMAIL;TYPE=INTERNET:terry_yip@keysight.com
+URL:www.keysight.com
+ADR;TYPE=WORK:;;Unit 215/30-40 Harcourt Parade;Rosebery;NSW;2018;Australia
+END:VCARD
